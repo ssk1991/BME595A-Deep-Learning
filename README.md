@@ -11,13 +11,13 @@
 ## Part A
 
 ### Outputs of 1280 x 720 image
-1
+### 1
 ![alt text](https://github.com/ssk1991/BME595A-Deep-Learning/blob/master/Images/output_1_1280x720.png)
 
-2
+### 2
 ![alt text](https://github.com/ssk1991/BME595A-Deep-Learning/blob/master/Images/output_2_1280x720.png)
 
-3
+### 3
 ![alt text](https://github.com/ssk1991/BME595A-Deep-Learning/blob/master/Images/output_3_1280x720.png)
 
 4
