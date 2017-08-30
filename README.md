@@ -51,7 +51,7 @@
 ## Part B
 ### Time is exponentially increasing with i
 ### I implemented addition first, followed by convolutions. It helped reduce the number of multiplications
-![alt text](https://github.com/ssk1991/BME595A-Deep-Learning/blob/master/Images/Part%20B.PNG)
+![alt text](https://github.com/ssk1991/BME595A-Deep-Learning/blob/master/Images/Task%20B.PNG)
 
 ## Part C
 ### Number of computations is quadratically increasing with kernel size
