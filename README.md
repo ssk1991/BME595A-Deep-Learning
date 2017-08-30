@@ -54,3 +54,12 @@
 
 ### 6
 ![alt text](https://github.com/ssk1991/BME595A-Deep-Learning/blob/master/Images/output_6_1920x1720.jpg)
+
+## Part B
+### As you can see time is exponentially increasing with i
+### I implemented addition first, followed by convolutions. It helped reduce the number of multiplications
+![alt text](https://github.com/ssk1991/BME595A-Deep-Learning/blob/master/Images/Part%20B.png)
+
+## Part C
+### It seems like a linear increase (or some small power of kernel_size) 
+![alt text](https://github.com/ssk1991/BME595A-Deep-Learning/blob/master/Images/Part%20C.png)
