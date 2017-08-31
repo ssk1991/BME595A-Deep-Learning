@@ -1,5 +1,7 @@
 # BME595A Deep Learning Assignment 1
 
+## Disclaimer: I took help from a fellow student to write Part D, since I had no idea how to program in C
+
 ## Input Images
 
 ### Image 1: 1280 x 720
@@ -56,3 +58,7 @@
 ## Part C
 ### Number of computations is quadratically increasing with kernel size
 ![alt text](https://github.com/ssk1991/BME595A-Deep-Learning/blob/master/Images/Part%20C.PNG)
+
+## Part D (I used another student's help in writing the code sinnce I had no idea how to code in C)
+### As we can see though, the C code compiles much much faster than the Python code
+![alt text](https://github.com/ssk1991/BME595A-Deep-Learning/blob/master/Images/Part%20D.PNG)
